@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_Euthentification_Cas_non_passant_mot_de_passe_invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3e99ef19-e033-44db-ade9-315cf8d8c66d</testCaseGuid>
+</TestCaseEntity>
